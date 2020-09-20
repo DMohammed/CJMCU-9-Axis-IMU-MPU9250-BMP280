@@ -1,5 +1,8 @@
 # CJMCU-9-Axis-IMU-MPU9250-BMP280
 
+![Output](/Image/CJMCU-9-Axis.jpg)
+
+
 this is a margin between tow library for model CJMCU-9-Axis IMU MPU9250 + BMP280 
 
 for using this code u need to install this library
