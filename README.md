@@ -9,4 +9,5 @@ https://github.com/adafruit/Adafruit_BMP280_Library
 https://github.com/asukiaaa/MPU9250_asukiaaa
 
 I modify for better output in serial plotter
-![Output] (serial.png)
+
+![Output] (/serial.png)
